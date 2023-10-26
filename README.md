@@ -1,3 +1,0 @@
-# FlappyBird
- 
-# Flappy-Bird
